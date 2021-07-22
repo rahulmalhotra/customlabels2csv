@@ -33,6 +33,7 @@ node xml2csv.js
 ```
 
 You'll get the output as shown below:
+
 ![xml2csv](https://github.com/rahulmalhotra/customlabels2csv/blob/master/images/xml2csv.png)
 
 A new file will be created with name **customlabels.csv** or if this file is already present, it'll be updated as shown below:
@@ -48,6 +49,7 @@ node csv2xml.js
 ```
 
 You'll get the output as shown below:
+
 ![csv2xml](https://github.com/rahulmalhotra/customlabels2csv/blob/master/images/csv2xml.png)
 
 A new file will be created with name **NewCustomLabels.labels-meta.xml** or if this file is already present, it'll be updated as shown below:
