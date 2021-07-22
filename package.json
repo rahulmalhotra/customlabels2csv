@@ -1,0 +1,14 @@
+{
+  "name": "customlabelstocsv",
+  "version": "1.0.0",
+  "description": "This utility app will help you to convert custom labels xml to csv and vice-versa",
+  "main": "xmltocsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Malhotra",
+  "license": "ISC",
+  "dependencies": {
+    "xml2csv": "^1.0.1"
+  }
+}

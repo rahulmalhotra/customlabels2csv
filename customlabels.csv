@@ -1,0 +1,3 @@
+Full Name,Categories,Language,Protected,Short Description,Value
+"quoteManual","quote","en_US","false","Manual Quote","This is a manual quote."
+"quoteAuto","quote","en_US","false","Automatic Quote","This is an automatically generated quote."

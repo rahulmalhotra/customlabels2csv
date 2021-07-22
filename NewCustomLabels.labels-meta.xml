@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>quoteManual</fullName>
+        <categories>quote</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Manual Quote</shortDescription>
+        <value>This is a manual quote.</value>
+    </labels>
+    <labels>
+        <fullName>quoteAuto</fullName>
+        <categories>quote</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Automatic Quote</shortDescription>
+        <value>This is an automatically generated quote.</value>
+    </labels>
+</CustomLabels>
