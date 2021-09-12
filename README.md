@@ -10,6 +10,7 @@ You should have Node.js installed in your local system. You can download it from
 
 ```
 git clone https://github.com/rahulmalhotra/customlabels2csv.git
+cd customlabels2csv
 ```
 
 In order to install the necessary modules, after cloning the repository, you can navigate to the base folder and run the below command to install the dependencies:
